@@ -34,4 +34,4 @@ If file.mp3 already exists and has a larger file size, no action is taken
 
 The last step is to delete any remaining copies of file(x).mp3
 
-Test this out on a tiny sample of your files before launching, this was designed to work against my special case, yours may not behave the same way. Good luck!
+Test this out on a tiny sample of your files before trying it for real- this was designed to work against my special case, yours may not behave the same way. Good luck!
